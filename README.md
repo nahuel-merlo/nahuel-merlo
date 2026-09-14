@@ -1,11 +1,12 @@
 ## About me
 
-I'm a Fullstack Developer with hands-on experience building web applications using **TypeScript** and **React**. My current focus is deepening my expertise in **Haskell** and functional programming
+I'm a Fullstack Developer with hands-on experience building web applications using **TypeScript** and **React**. My current focus is deepening my expertise in **Haskell** and functional programming. I'm also teaching **Fundamentals of Computer Science***
 
 ## Currently
 
 - 📖 Studying system **engineering** 
 - 🔭 Building projects in **Haskell**
+- 🧑‍🏫 Turning **students** into Haskellers
   
 <!--
 **nahuepera5/nahuepera5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
