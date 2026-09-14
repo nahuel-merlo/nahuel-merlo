@@ -6,7 +6,7 @@ I'm a Fullstack Developer with hands-on experience building web applications usi
 
 - 📖 Studying system **engineering** 
 - 🔭 Building projects in **Haskell**
-- 🧑‍🏫 Turning **students** into Haskellers
+- 🎓 Turning **students** into Haskellers
   
 <!--
 **nahuepera5/nahuepera5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
