@@ -1,6 +1,6 @@
 ## About me
 
-I'm a Fullstack Developer with hands-on experience building web applications using **TypeScript** and **React**. My current focus is deepening my expertise in **Haskell** and functional programming. I'm also teaching **Fundamentals of Computer Science**
+I'm a Fullstack Developer with hands-on experience building web applications using **TypeScript** and **React**. My current focus is deepening my expertise in **Haskell** and functional programming. I'm also teaching **Fundamentals of Computer Science** at Universidad ORT Uruguay.
 
 ## Currently
 
